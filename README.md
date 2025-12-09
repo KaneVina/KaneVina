@@ -62,3 +62,15 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneVina\&theme=tokyo-night)
 
 <p align="center"><b>An enthusiastic Front-end Developer and BA from Vietnam 🇻🇳</b></p>
+<p align="center">
+
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=KaneVina&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+  <!-- Followers -->
+  <a href="https://github.com/KaneVina?tab=followers">
+    <img src="https://img.shields.io/github/followers/KaneVina?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  </a>
+
+</p>
+
