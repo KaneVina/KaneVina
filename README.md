@@ -55,6 +55,14 @@
 ![Katalon](https://img.shields.io/badge/Katalon-1C3C63?style=for-the-badge\&logo=katalon\&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge\&logo=sourcetree\&logoColor=white)
 
+### **AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-A669FF?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Blackbox AI](https://img.shields.io/badge/BlackboxAI-000000?style=for-the-badge&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
