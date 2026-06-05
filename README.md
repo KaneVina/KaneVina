@@ -1,18 +1,8 @@
 <div align="center">
 
-<!-- Animated banner -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2600&pause=1500&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hello%2C+I+am+Phuc+Khang;I+am+an+IT+student+at+FPT+University;I+can+develop+User+Interfaces;Additionally%2C+I+am+capable+of+working+as+a+BA;Nice+to+meet+you!)
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaneVina/KaneVina/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaneVina/KaneVina/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KaneVina/KaneVina/output/github-snake.svg" />
-</picture>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1500&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hello%2C+I+am+Phuc+Khang+%F0%9F%91%8B;I+am+an+IT+student+at+FPT+University+%F0%9F%8E%93;I+can+develop+User+Interfaces+%F0%9F%96%A5%EF%B8%8F;Additionally%2C+I+am+capable+of+working+as+a+BA+%F0%9F%93%8B;Nice+to+meet+you!+%F0%9F%A4%9D)
 
 </div>
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=%E2%80%9CCreativity+is+intelligence+having+fun.%E2%80%9D&author=Albert+Einstein" />
@@ -121,20 +111,10 @@
 
 <div align="center">
 
-<a href="https://github.com/KaneVina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaneVina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaneVina&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaneVina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaneVina&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KaneVina&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KaneVina&theme=tokyonight&hide_border=true" />
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneVina&theme=tokyo-night&hide_border=true)
 
@@ -146,7 +126,17 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaneVina&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-trophies.vercel.app/?username=KaneVina&theme=tokyonight&no-frame=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
+</div>
+
+---
+
+## 📈 Contribution Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaneVina&theme=tokyonight)
 
 </div>
 
@@ -158,11 +148,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=KaneVina&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 <a href="https://github.com/KaneVina?tab=followers">
-  <img src="https://img.shields.io/github/followers/KaneVina?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-0e75b6?style=flat&logo=github&logoColor=white" alt="follow on github" />
 </a>
-
-<br><br>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=A9FEF7&height=100&section=footer)
 
 </div>
