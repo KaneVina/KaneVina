@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1500&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hello%2C+I+am+Phuc+Khang+%F0%9F%91%8B;I+am+an+IT+student+at+FPT+University+%F0%9F%8E%93;I+can+develop+User+Interfaces+%F0%9F%96%A5%EF%B8%8F;Additionally%2C+I+am+capable+of+working+as+a+BA+%F0%9F%93%8B;Nice+to+meet+you!+%F0%9F%A4%9D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=1500&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hello%2C+I+am+Phuc+Khang;I+am+an+IT+student+at+FPT+University;I+can+develop+User+Interfaces;Additionally%2C+I+am+capable+of+working+as+a+BA;Nice+to+meet+you!)
 
 </div>
 
@@ -8,106 +8,172 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=%E2%80%9CCreativity+is+intelligence+having+fun.%E2%80%9D&author=Albert+Einstein" />
 </p>
 
+<p align="center">
+  <a href="https://earthoria.id.vn"><img src="https://img.shields.io/badge/Website-earthoria.id.vn-7aa2f7?style=flat-square&logo=googlechrome&logoColor=1a1b27" /></a>
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> &nbsp;·&nbsp;
+  <a href="#what-i-do">What I Do</a> &nbsp;·&nbsp;
+  <a href="#featured-project">Project</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#github-stats">Stats</a>
+</p>
+
 ---
 
-## 🧑‍💼 About Me
+## About Me
+
+IT student at FPT University, focused on building clean, user-friendly interfaces and connecting business requirements with technical solutions.
 
 <table>
   <tr>
     <td>
 
-| 🏷️ | Info |
+| | Info |
 |---|---|
 | **Full Name** | Nguyen Phuc Khang |
 | **Nickname** | Kane Nguyen |
 | **Phone** | 0849.324.423 |
 | **Role** | Front-end Developer & BA |
-| **School** | FPT University 🎓 |
-| **Location** | Vietnam 🇻🇳 |
+| **School** | FPT University |
+| **Location** | Vietnam |
+| **Website** | [earthoria.id.vn](https://earthoria.id.vn) |
 
   </td>
   <td>
 
 ```
-🔭 Currently studying IT at FPT University
-🌱 Learning React, Node.js & Cloud Services
-💡 Interested in UI/UX & Business Analysis
-🤝 Open to collaborate on interesting projects
-⚡ Fun fact: I debug with console.log 😄
+> Currently studying IT at FPT University
+> Learning React, Node.js & Cloud Services
+> Interested in UI/UX & Business Analysis
+> Open to collaborate on interesting projects
+> Fun fact: I debug with console.log
 ```
 
   </td>
   </tr>
 </table>
 
-### 📬 Contact Me
+---
+
+## What I Do
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+**Front-end Development**
+
+Building responsive, accessible user interfaces with React and Vite, with attention to UI/UX details.
+
+  </td>
+    <td width="33%" valign="top">
+
+**Business Analysis**
+
+Turning business needs into clear requirements and bridging the gap between stakeholders and developers.
+
+  </td>
+    <td width="33%" valign="top">
+
+**Full-stack & Embedded Basics**
+
+Node.js, SQL databases and cloud deployment, plus C and Arduino for embedded projects.
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## Featured Project
+
+<table>
+  <tr>
+    <td>
+
+**[Earthoria](https://earthoria.id.vn)**
+
+*Mở Sách, Mở Ra Thế Giới.*
+
+<a href="https://earthoria.id.vn"><img src="https://img.shields.io/badge/Visit-earthoria.id.vn-1a1b27?style=flat-square&logo=googlechrome&logoColor=7aa2f7" /></a>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## Contact
 
 <p align="left">
+  <a href="https://earthoria.id.vn">
+    <img src="https://img.shields.io/badge/Website-earthoria.id.vn-1a1b27?style=flat-square&logo=googlechrome&logoColor=7aa2f7" />
+  </a>
   <a href="mailto:nutwtskane@gmail.com">
-    <img src="https://img.shields.io/badge/Email%201-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-nutwtskane%40gmail.com-1a1b27?style=flat-square&logo=gmail&logoColor=D14836" />
   </a>
   <a href="mailto:khangnpce181578@fpt.edu.vn">
-    <img src="https://img.shields.io/badge/Email%202-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/FPT%20Mail-khangnpce181578%40fpt.edu.vn-1a1b27?style=flat-square&logo=microsoftoutlook&logoColor=0078D4" />
   </a>
+  <!-- TODO: điền link Facebook của bạn vào href -->
   <a href="">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1a1b27?style=flat-square&logo=facebook&logoColor=1877F2" />
   </a>
+  <!-- TODO: điền link LinkedIn của bạn vào href -->
   <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <img src="https://img.shields.io/badge/Zalo-0849324423-0099FF?style=for-the-badge" />
+  <a href="https://zalo.me/0849324423">
+    <img src="https://img.shields.io/badge/Zalo-0849324423-1a1b27?style=flat-square&logo=zalo&logoColor=0068FF" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Embedded Programming Languages
+**Languages & Hardware**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,java,arduino" />
 
-### 🔌 Microcontrollers & Platforms
+**Web Development**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite" />
 
-### 🌐 Web Development
+**Database**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+<br>
+<img src="https://img.shields.io/badge/SQL%20Server-1a1b27?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
 
-### 🗄️ Database
+**Cloud & Deployment**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<a href="https://vercel.com/foxtech"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+<br>
+<a href="https://render.com"><img src="https://img.shields.io/badge/Render-1a1b27?style=flat-square&logo=render&logoColor=46E3B7" /></a>
 
-### ☁️ Cloud & Deployment
+**DevOps & Tools**
 
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/foxtech)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
+<img src="https://skillicons.dev/icons?i=git" />
+<br>
+<img src="https://img.shields.io/badge/Katalon-1a1b27?style=flat-square&logo=katalon&logoColor=white" />
+<img src="https://img.shields.io/badge/Sourcetree-1a1b27?style=flat-square&logo=sourcetree&logoColor=0052CC" />
 
-### ⚙️ DevOps & Tools
+**AI Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon-1C3C63?style=for-the-badge&logo=katalon&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
-
-### 🤖 AI Tools
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-A669FF?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Blackbox AI](https://img.shields.io/badge/BlackboxAI-000000?style=for-the-badge&logoColor=white)
+<img src="https://skillicons.dev/icons?i=openai" />
+<br>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-1a1b27?style=flat-square&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-1a1b27?style=flat-square&logo=claude&logoColor=D97757" />
+<img src="https://img.shields.io/badge/Gemini-1a1b27?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+<img src="https://img.shields.io/badge/Blackbox%20AI-1a1b27?style=flat-square" />
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -122,7 +188,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -132,7 +198,7 @@
 
 ---
 
-## 📈 Contribution Summary
+## Contribution Summary
 
 <div align="center">
 
@@ -144,7 +210,9 @@
 
 <div align="center">
 
-<p><b>An enthusiastic Front-end Developer and BA from Vietnam 🇻🇳</b></p>
+<p><b>Front-end Developer & Business Analyst from Vietnam</b></p>
+
+<p><a href="https://earthoria.id.vn">earthoria.id.vn</a></p>
 
 <img src="https://komarev.com/ghpvc/?username=KaneVina&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 <a href="https://github.com/KaneVina?tab=followers">
